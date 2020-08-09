@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "author": "SlimyBlob & Eris",
+  "description": "Let's you practice a map, but only one hand at a time",
+  "gameVersion": "1.8.0",
+  "id": "OneHandPractice",
+  "name": "One Hand Practice",
+  "version": "0.0.1"
+}

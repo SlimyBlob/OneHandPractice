@@ -1,0 +1,13 @@
+﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+    <vertical>
+        <modifier-container pref-width='65' child-control-height='false' child-expand-height='false'>
+            <checkbox apply-on-change='true' value='handToggle' text='Toggle on/off'
+                      hover-hint='Enable one-hand practice'/>
+        </modifier-container>
+        <modifier-container pref-width='65' child-control-height='false' child-expand-height='false'>
+            <checkbox apply-on-change='true' value='leftToggle' text='Left hand'
+                      hover-hint='Switch to left hand'/>
+        </modifier-container>
+    </vertical>
+    
+</bg>
